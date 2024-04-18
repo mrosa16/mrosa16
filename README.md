@@ -16,6 +16,7 @@
 
 
 <img align="center" alt="Michael-Vuejs" height="40" width="50"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+<img align="center" alt="Michael-Vuejs" height="40" width="50"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img  align="center" alt="Michael-NODE" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 <img lign="center" alt="Michael-posgres" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 <img align="center" alt="Michael-react" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
