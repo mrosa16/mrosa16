@@ -1,7 +1,8 @@
 ### Hello, I'm Michael Patrick 👋
 
 - 🔭 I’m currently working on Front-end with Aurelia JS
-- 🌱 I’m currently learning React JS, Vue.js and Typescript
+- 🌱 I’m currently learning React JS, Vue.js to Front-end
+- 🌱 I'm currenttly learning Node.js and Typescript
 -  ✉️ My email is: michaelpr3003@gmail.com
 
 <div>
