@@ -24,6 +24,9 @@
 <img align="center" alt="Michael-CSS" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="center" alt="Michael-MySql" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="center" alt="Michael-PHP" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" />
+<img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />
+<img align="center"  height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
 
 
 </div>
