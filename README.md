@@ -1,6 +1,6 @@
 ### Hello, I'm Michael Patrick 👋
 
-- 🌱 I'm currenttly learning Node.js and Typescript
+
 + 🌱 I'm currently learning Node.js and TypeScript
 + 💼 I'm a Full-Stack Developer with experience since 2021, specialized in building modern web applications using Vue.js, Aurelia.js, Node.js, TypeScript, GraphQL and PHP. I've built custom CRMs and tools for the solar sector, integrating APIs like Hubspot and MessageBird to enhance business efficiency. Always seeking to grow through new challenges and collaborative projects.
 
