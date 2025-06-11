@@ -1,15 +1,22 @@
 ### Hello, I'm Michael Patrick 👋
 
-- 🔭 I’m currently working on Front-end with Aurelia JS and  Vue.js
 - 🌱 I'm currenttly learning Node.js and Typescript
++ 🌱 I'm currently learning Node.js and TypeScript
++ 💼 I'm a Full-Stack Developer with experience since 2021, specialized in building modern web applications using Vue.js, Aurelia.js, Node.js, TypeScript, GraphQL and PHP. I've built custom CRMs and tools for the solar sector, integrating APIs like Hubspot and MessageBird to enhance business efficiency. Always seeking to grow through new challenges and collaborative projects.
+
 -  ✉️ My email is: michaelpr3003@gmail.com
 
 <div>
   <a href="https://github.com/mrosa16"></a>
-  <img height:"180em" src="https://github-readme-stats.vercel.app/api?username=mrosa16&theme=react&show_icons=true" />
-  <br>
-  <img height:"180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrosa16&theme=react&layout=compact" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrosa16&theme=react&show_icons=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrosa16&theme=react&layout=compact" />
+
 </div>
+
+
+ 🚧 Featured Projects
+- **Solar CRM Tool**: Full-stack tool for managing photovoltaic panel layouts and client workflows. Tech: Node.js, GraphQL, Vue.js, Docker.
+- **Landing Page Builder**: High-conversion responsive pages built with vanilla JS, integrated with PHP backend and Hubspot APIs.
 
 <div style="display: inline_block"><br>
 
@@ -32,10 +39,18 @@
 
 
 </div>
-
-##
 <div>
-  <a href="mailto:michaelpr16@live.com"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.instagram.com/the_michaels__/"><img  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/michael-patrick-aaab0572/"><img  src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<br>
+
+📬 Contact
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michael-patrick-aaab0572/)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:michaelpr3003@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](http://wa.me/5511991820818)
+
 </div>
+
+📚 Learning & Certifications
+- [x] Node.js Avançado com JS e TS – Udemy
+- [x] Desenvolvimento Web com Vue – Cod3r
+- [x] Trilha Back-End – Ada Tech (2024)
+- [x] Curso Web API ASP .NET Core Essencial (.NET 8 / .NET 9)
