@@ -1,56 +1,203 @@
-### Hello, I'm Michael Patrick 👋
+# Hello, I'm Michael Patrick 👋
 
+### Backend Software Engineer | .NET • Node.js • Azure • PostgreSQL • AI & Workflow Automation
 
-+ 🌱 I'm currently learning Node.js and TypeScript
-+ 💼 I'm a Full-Stack Developer with experience since 2021, specialized in building modern web applications using Vue.js, Aurelia.js, Node.js, TypeScript, GraphQL and PHP. I've built custom CRMs and tools for the solar sector, integrating APIs like Hubspot and MessageBird to enhance business efficiency. Always seeking to grow through new challenges and collaborative projects.
+I'm a Software Engineer passionate about building scalable backend systems, enterprise applications, workflow automation, and AI-powered solutions.
 
--  ✉️ My email is: michaelpr3003@gmail.com
+Currently, I work at **Ambipar ESG**, developing enterprise software for ESG and GRC management while also building SaaS products focused on financial reconciliation, automation, and conversational AI.
+
+I'm always looking for new challenges involving software architecture, cloud computing, distributed systems, and high-performance applications.
+
+---
+
+## 🚀 About Me
+
+- 💼 Software Engineer since 2021
+- ⚙️ Backend-focused with .NET and Node.js
+- ☁️ Azure & Docker enthusiast
+- 🤖 Building AI-powered automation platforms
+- 🏗 Passionate about Clean Architecture & Domain-Driven Design
+- 🌎 Looking for international remote opportunities
+- ✉️ Contact: **michaelpr3003@gmail.com**
+
+---
+
+## 🏦 Current Projects
+
+### Braynex
+Enterprise Financial Reconciliation Platform
+
+- Multi-tenant SaaS
+- ETL Pipelines
+- Financial Reconciliation Engine
+- Audit Logs
+- Azure Cloud
+- CI/CD with GitHub Actions
+- PostgreSQL
+- Docker
+
+---
+
+### MPR Biz Automation
+
+AI-powered automation platform for commercial teams.
+
+Features:
+
+- OpenAI
+- Chatwoot
+- Evolution API
+- n8n
+- WhatsApp Automation
+- Lead Qualification
+- CRM Automation
+- Workflow Engine
+
+---
+
+### Enterprise ESG Platform
+
+Development and maintenance of enterprise modules for one of Brazil's largest ESG platforms.
+
+Responsibilities:
+
+- ASP.NET MVC
+- .NET
+- PostgreSQL
+- API Integration
+- Business Rules
+- SQL Optimization
+- Bug Fixing
+- Legacy Modernization
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+
+- .NET 8
+- ASP.NET MVC
+- C#
+- Node.js
+- TypeScript
+- GraphQL
+- REST APIs
+
+### Frontend
+
+- Vue.js
+- React
+- Aurelia
+- JavaScript
+- HTML
+- CSS
+
+### Database
+
+- PostgreSQL
+- SQL Server
+- MySQL
+
+### Cloud & DevOps
+
+- Azure
+- Docker
+- GitHub Actions
+- Git
+- Linux
+
+### Automation & AI
+
+- OpenAI API
+- n8n
+- Chatwoot
+- Evolution API
+- HubSpot
+- MessageBird
+
+---
+
+## 🧠 Interested In
+
+- Software Architecture
+- Clean Architecture
+- Domain-Driven Design (DDD)
+- Distributed Systems
+- Cloud Computing
+- Artificial Intelligence
+- Enterprise Applications
+- Workflow Automation
+- SaaS Platforms
+
+---
+
+## 📈 GitHub Stats
 
 <div>
   <a href="https://github.com/mrosa16"></a>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrosa16&theme=react&show_icons=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrosa16&theme=react&layout=compact" />
+
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=mrosa16&theme=react&show_icons=true" />
+
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrosa16&theme=react&layout=compact" />
 
 </div>
 
+---
 
- 🚧 Featured Projects
-- **Solar CRM Tool**: Full-stack tool for managing photovoltaic panel layouts and client workflows. Tech: Node.js, GraphQL, Vue.js, Docker.
-- **Landing Page Builder**: High-conversion responsive pages built with vanilla JS, integrated with PHP backend and Hubspot APIs.
+## 🚧 Technologies
 
 <div style="display: inline_block"><br>
 
+<img align="center" alt="dotnet" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
 
-<img align="center" alt="Michael-Vuejs" height="40" width="50"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-<img align="center" alt="Michael-Vuejs" height="40" width="50"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img  align="center" alt="Michael-NODE" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-<img lign="center" alt="Michael-posgres" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img align="center" alt="Michael-react" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="center" alt="Michael-js" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="center" alt="Michael-HTML5" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="center" alt="Michael-CSS" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="center" alt="Michael-MySql" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="center" alt="Michael-PHP" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" />
-<img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />
-<img align="center"  height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
-<img  align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
-<img  align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" />
+<img align="center" alt="csharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
 
+<img align="center" alt="node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+
+<img align="center" alt="typescript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+
+<img align="center" alt="graphql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"/>
+
+<img align="center" alt="postgres" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+
+<img align="center" alt="sqlserver" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
+
+<img align="center" alt="docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+
+<img align="center" alt="azure" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
+
+<img align="center" alt="vue" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
+
+<img align="center" alt="react" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+
+<img align="center" alt="javascript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+
+<img align="center" alt="git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 
 </div>
-<div>
-<br>
 
-📬 Contact
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michael-patrick-aaab0572/)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:michaelpr3003@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](http://wa.me/5511991820818)
+---
 
-</div>
+## 📚 Currently Learning
 
-📚 Learning & Certifications
-- [x] Node.js Avançado com JS e TS – Udemy
-- [x] Desenvolvimento Web com Vue – Cod3r
-- [x] Trilha Back-End – Ada Tech (2024)
-- [x] Curso Web API ASP .NET Core Essencial (.NET 8 / .NET 9)
+- Software Architecture
+- Clean Architecture
+- Domain-Driven Design
+- Azure Cloud
+- Kubernetes
+- Design Patterns
+- Microservices
+- Event-Driven Architecture
+
+---
+
+## 📬 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-patrick-aaab0572/)
+
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:michaelpr3003@gmail.com)
+
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5511991820818)
