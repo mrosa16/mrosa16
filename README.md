@@ -131,22 +131,6 @@ Responsibilities:
 - SaaS Platforms
 
 ---
-
-## 📈 GitHub Stats
-
-<div>
-  <a href="https://github.com/mrosa16"></a>
-
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=mrosa16&theme=react&show_icons=true" />
-
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrosa16&theme=react&layout=compact" />
-
-</div>
-
----
-
 ## 🚧 Technologies
 
 <div style="display: inline_block"><br>
